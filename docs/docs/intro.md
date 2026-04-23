@@ -1,6 +1,7 @@
 ---
+slug: /
 sidebar_position: 1
-title: Introduction
+title: Lesson 1 Social Engineering
 ---
 
 # Welcome to AP Cybersecurity
